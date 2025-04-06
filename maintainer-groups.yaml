@@ -1,4 +1,4 @@
-subprojects:
+maintainer-groups:
 - name: Helm Core
   ownersLink: https://raw.githubusercontent.com/helm/helm/master/OWNERS
   repos:
